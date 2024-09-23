@@ -8,5 +8,9 @@
     "headless-execution": "cypress run"
   },
   "author": "Joan Esquivel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "wick-a11y": "^1.2.1"
+  }
 }
