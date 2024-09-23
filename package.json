@@ -1,0 +1,12 @@
+{
+  "name": "cypress-wicka11y",
+  "version": "1.0.0",
+  "description": "Project created to explore the integration of Cypress + wick-a11y",
+  "main": "index.js",
+  "scripts": {
+    "test-runner": "cypress open",
+    "headless-execution": "cypress run"
+  },
+  "author": "Joan Esquivel",
+  "license": "ISC"
+}
